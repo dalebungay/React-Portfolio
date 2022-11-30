@@ -41,6 +41,13 @@ class Home extends React.Component {
                                 <a href="https://github.com/dalebungay/ClotheryClub"><img src="
                                         /assets/images/html.png" alt="" /></a>
                             </div>
+                            <div class="box1">
+                                <h1>UCB Project2</h1>
+                                <a href="https://star-chart7.herokuapp.com//"><img
+                                    src="/assets/images/github.png" alt="" /></a>
+                                <a href="https://github.com/TottoMoe/star-chart"><img src="
+                                        /assets/images/html.png" alt="" /></a>
+                            </div>
                         </div>
                     </div>
                 </section>
